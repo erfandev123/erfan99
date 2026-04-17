@@ -1,0 +1,8 @@
+{
+  "name": "Reeta final",
+  "description": "A high-performance social media platform with real-time features, media storage via GitHub, and optimized for low-end devices.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
